@@ -1,0 +1,17 @@
+tag v0.7
+cf33283891587519c9ef32a1974d057113f9fd20
+Chris Heald <cheald@gmail.com>
+2011-04-27 15:53:36 -0700
+
+Tagging as 0.7
+
+
+--------------------
+
+Chris Heald:
+	- Various updates for 4.1. Fixes a number of visual glitches
+Mange:
+	- Fix caching of spell book. Some items does not provide links anymore (Attack and more).
+durcyn:
+	- 4.0 compat: GetSpellName -> GetSpellBookItemName
+	- new 4.0 spell IDs
