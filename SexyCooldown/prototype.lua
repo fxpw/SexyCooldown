@@ -915,7 +915,7 @@ function cooldownPrototype:UpdateTime()
 end
 
 function cooldownPrototype:Blacklist()
-	print(("|cff7777eeSexyCooldown|r Blacklisted |cffff0000%s|r from |cffff0000%s|r"):format(self.name, self.parent.settings.bar.name))
+	print(("|cff7777eeSexyCooldown|r добавлен |cffff0000%s|r в черный список из панели |cffff0000%s|r"):format(self.name, self.parent.settings.bar.name))
 	self.parent.settings.blacklist[self.uid] = self.name
 	self:Expire(true)
 end
