@@ -1,16 +1,14 @@
-## Interface: 40100
+## Interface: 30300
 ## Title: SexyCooldown
 ## Notes: A sexy logarithmic cooldown bar
 ## Notes-zhCN: 性感冷却计时条
 ## Notes-zhTW: 性感冷卻計時條
-## Author: Antiarc
-## Version: 0.6.16
+## Notes-ruRU: Показывает кулдауны на кастомном баре
+## Author: Antiarc , Адаптация под Sirus - Фалафель and Пьяная
+## Version: 0.6.16 sirus edition
 ## SavedVariables: SexyCooldownDB
 ## OptionalDeps: Ace3, LibSharedMedia-3.0, LibInternalCooldowns-1.0
-## X-Curse-Packaged-Version: v0.7
-## X-Curse-Project-Name: SexyCooldown
-## X-Curse-Project-ID: sexycooldown
-## X-Curse-Repository-ID: wow/sexycooldown/mainline
+
 
 #@no-lib-strip@
 embeds.xml
