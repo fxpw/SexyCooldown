@@ -2,7 +2,7 @@
 -- Localizers may copy this file to edit as necessary. 
 
 local AceLocale = LibStub:GetLibrary("AceLocale-3.0") 
-local L = AceLocale:NewLocale("SexyCooldown", "ruRU", ["Бары"]) 
+local L = AceLocale:NewLocale("SexyCooldown", "ruRU", true) 
 if not L then return end 
 
  
