@@ -1,2 +1,2 @@
 # SexyCooldown_sirus
-SexyCooldown пофикшенный
+SexyCooldown  для Sirus.su
