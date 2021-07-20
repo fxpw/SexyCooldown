@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SexyCooldown",
+    "\\SexyCooldown\\Localization"
   ],
-  "SelectedNode": "\\C:\\Users\\fxpw\\Source\\Repos\\fxpw\\SexyCooldown_sirus",
+  "SelectedNode": "\\SexyCooldown\\Localization\\ruRU.lua",
   "PreviewInSolutionExplorer": false
 }
