@@ -12,7 +12,7 @@ L["Bars"] = "Бары"
 L["Create new bar"] = "Создать новый бар"
 L["Profiles"] = "Профили"
 L["Reset to defaults"] = "Восстановить"
-L["Reset all colors in this group to the icon defaults"] = ["Сбросить все цвета в этой группе на значения по умолчанию для значков"
+L["Reset all colors in this group to the icon defaults"] = "Сбросить все цвета в этой группе на значения по умолчанию для значков"
 
 -- ./loadstub.lua
 -- no localization
