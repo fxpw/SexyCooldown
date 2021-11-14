@@ -4,8 +4,8 @@
 ## Notes-zhCN: 性感冷却计时条
 ## Notes-zhTW: 性感冷卻計時條
 ## Notes-ruRU: Показывает кулдауны на кастомном баре
-## Author: Antiarc , Адаптация под Sirus - Фалафель and Пьяная
-## Version: 0.6.16 sirus edition
+## Author: Antiarc , Адаптация под Sirus - Фалафель and fxpw
+## Version: 6.20
 ## SavedVariables: SexyCooldownDB
 ## OptionalDeps: Ace3, LibSharedMedia-3.0, LibInternalCooldowns-1.0
 
@@ -23,6 +23,7 @@ loadstub.lua
 options.lua
 prototype.lua
 core.lua
+Verchecksc.lua
 
 Modules\Spells.lua
 Modules\Items.lua
