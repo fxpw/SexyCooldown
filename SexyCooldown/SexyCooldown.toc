@@ -4,8 +4,8 @@
 ## Notes-zhCN: 性感冷却计时条
 ## Notes-zhTW: 性感冷卻計時條
 ## Notes-ruRU: Показывает кулдауны на кастомном баре
-## Author: Antiarc , Адаптация под Sirus - Фалафель and fxpw
-## Version: 6.20
+## Author: Antiarc , Адаптация под Sirus - Фалафель and FXPW, Apolexis
+## Version: 6.21
 ## SavedVariables: SexyCooldownDB
 ## OptionalDeps: Ace3, LibSharedMedia-3.0, LibInternalCooldowns-1.0
 
