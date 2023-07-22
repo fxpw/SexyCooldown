@@ -24,7 +24,7 @@ loadstub.lua
 options.lua
 prototype.lua
 core.lua
-Verchecksc.lua
+# Verchecksc.lua
 
 Modules\Spells.lua
 Modules\Items.lua

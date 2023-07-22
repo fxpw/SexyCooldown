@@ -7,7 +7,7 @@ local GetNumRaidMembers = GetNumRaidMembers
 local CreateFrame = CreateFrame
 
 local myname = UnitName("player")
-versionSC = GetAddOnMetadata("SexyCooldown", "Version")
+local versionSC = GetAddOnMetadata("SexyCooldown", "Version")
 
 local spamt = 0
 local timeneedtospam = 180
@@ -63,10 +63,10 @@ do
                 SendRecieveGroupSizeSC = num
             end
         elseif event == "PLAYER_ENTERING_WORLD" then
-                    if not SendMessageWaitingSC then
-                        SendMessage_SC()
-                        -- SendMessageWaitingBB = E:Delay(10, SendMessage_BB)
-                    end
+            if not SendMessageWaitingSC then
+                SendMessage_SC()
+                -- SendMessageWaitingBB = E:Delay(10, SendMessage_BB)
+            end
         end
     end
            
