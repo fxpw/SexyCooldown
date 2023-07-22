@@ -1,6 +1,6 @@
 local mod = SexyCooldown:NewModule("Items", "AceEvent-3.0")
 local L = LibStub("AceLocale-3.0"):GetLocale("SexyCooldown")
-local LibICD = LibStub("LibInternalCooldowns-1.0")
+local LibICD = LibStub("LibInternalCooldowns-1.1")
 
 function mod:OnInitialize()	
 	SexyCooldown.RegisterFilter(self, "ITEM_COOLDOWN",

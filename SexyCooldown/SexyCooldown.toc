@@ -1,13 +1,14 @@
 ## Interface: 30300
 ## Title: SexyCooldown
+## X-Date: 22.07.2023
 ## Notes: A sexy logarithmic cooldown bar
 ## Notes-zhCN: 性感冷却计时条
 ## Notes-zhTW: 性感冷卻計時條
 ## Notes-ruRU: Показывает кулдауны на кастомном баре
-## Author: Antiarc , Адаптация под Sirus - Фалафель and FXPW, Apolexis
-## Version: 6.3
+## Author: Antiarc, адаптация для Sirus: Фалафель, fxpw, Apolexis, DarhangeR
+## Version: 6.31
 ## SavedVariables: SexyCooldownDB
-## OptionalDeps: Ace3, LibSharedMedia-3.0, LibInternalCooldowns-1.0
+## OptionalDeps: Ace3, LibSharedMedia-3.0, LibInternalCooldowns-1.1
 
 
 #@no-lib-strip@
